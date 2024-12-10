@@ -1,0 +1,332 @@
+.encabezado{
+    width: 100%;
+    height: 55px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: right;
+    background-color: #2a3134;  
+}
+.encabezado1{
+    text-decoration: none;
+    color: rgb(10, 255, 76);
+    font-size: 12px;
+    font-weight: 50;
+    padding: 30px 25px;
+}
+.logo{
+     display: flex;
+      flex-direction: row;
+      justify-content: left;
+      align-items: center;
+      padding: 10px;
+      float: left;
+      margin-right: 700px;
+      margin-top: 10px;
+      text-decoration: none;
+      color: rgb(11, 255, 129); 
+}
+.encabezado1:hover{
+    color: aliceblue;
+}
+.cuerpo{
+    background-image: url(imagenes/indice.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 5px;
+
+}
+.cintura{
+    background-color: #2a3134;
+    color: rgb(0, 192, 128);
+    width: 100%;
+    height: 35px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+}
+.cintura1{
+    background-color: #2a3134;
+    color: rgb(0, 192, 128);
+    width: 100%;
+    height: 35px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+}
+.cintura2{
+    background-color: #2a3134;
+    color: rgb(0, 192, 128);
+    width: 100%;
+    height: 35px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.yo{
+    background-color: #2a3134;
+    color: rgb(0, 192, 128);
+    width: 100%;
+    height: 35px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.dix{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 5px;
+}
+.dix1{
+    width: 50%;
+    height: 350px;
+}
+.dix2{
+    width: 30%;
+    height: 350px;
+    background-image: url(imagenes/pqñ.jpg);
+    border-radius: 20%;
+}
+.uñas{
+    background-color: #2a3134;
+    width: 100%;
+    height: 60px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+  
+}
+.raton1{
+    background-color: white;
+    width: 300px;
+    height: 450px;
+    margin-top: 20px;
+    margin-left: 40px;
+    border-radius: 4%;
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+    
+    
+}
+.raton{
+    height: 500px;
+    width: 1200px;
+    display: flex;
+    margin: auto;
+    margin-top: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+.raton1a{
+    background-color: rgb(0, 255, 251);
+    background-image: url(imagenes/seguridad\ informatica.jpg);
+    width: 300px;
+    height: 250px;
+    border-radius: 30%;
+    border-top-left-radius: 6%;
+    border-top-right-radius: 6%;
+    display: flex;
+} .raton1a h4{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding-left: 90px;
+}
+.ter{
+    background-color: rgb(0, 217, 250);
+    height: 50px;
+    justify-content: center;
+    margin-right: 100px;
+    align-content: center;
+    width: 150px;
+    margin-left: 80px;
+    border-radius: 40%;
+    color: white;
+    margin-top: 60px;
+    
+}
+.raton2{
+    background-color: white;
+    width: 300px;
+    height: 450px;
+    margin-top: 20px;
+    margin-left: 90px;
+    border-radius: 4%;
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+    
+    
+}
+.raton2a{
+    background-color: rgb(250, 5, 5);
+    background-image: url(imagenes/aplicaciones\ web.jpg);
+    width: 300px;
+    height: 250px;
+    border-radius: 30%;
+    border-top-left-radius: 6%;
+    border-top-right-radius: 6%;
+    display: flex;
+} .raton2a h4{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding-left: 100px;
+}
+.mer{
+    background-color: rgb(243, 0, 0);
+    height: 50px;
+    justify-content: center;
+    margin-right: 100px;
+    align-content: center;
+    width: 150px;
+    margin-left: 80px;
+    border-radius: 40%;
+    color: white;
+    margin-top: 60px;
+    
+}
+.raton3{
+    background-color: white;
+    width: 300px;
+    height: 450px;
+    margin-top: 20px;
+    margin-left: 90px;
+    border-radius: 4%;
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+    
+    
+}
+.raton3a{
+    background-color: rgb(21, 116, 232);
+    background-image: url(imagenes/servicios\ en\ red.jpg);
+    width: 300px;
+    height: 250px;
+    border-radius: 30%;
+    border-top-left-radius: 6%;
+    border-top-right-radius: 6%;
+    display: flex;
+} 
+.raton3a h4{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding-left: 100px;
+}
+.redes div.img1{
+   display: inline-block;
+    padding: 40px;
+    justify-content: right;
+    gap: 20px;
+} 
+.botton3{
+    width: 150px;
+    height: 40px;
+    background-color: rgb(21, 116, 232);
+    border-radius: 10px;
+
+}
+.ino{
+    width: 100%;
+    height: 35px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    padding: 20px;
+} 
+.ino img{
+    width: 40px;
+    height: 40px;
+} 
+.nom{
+    color: aliceblue;
+}
+.emo{
+    color: aliceblue;
+}
+.web{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.web1{
+    width: 50%;
+    height: 300px;
+}
+.Nomb{
+   width: 190px;
+   height: 30px;
+   margin-top: 30px;
+   float: right;
+   margin-right: 30px;
+
+}
+.Obje{
+    width: 420px;
+    height: 30px;
+    margin-top: 30px;
+    float: right;
+    margin-right: 30px;
+}
+.Mensa{
+    width: 420px;
+    height: 160px;
+    margin-top: 30px;
+    float: right;
+    margin-right: 30px;
+}
+.sub{
+    width: 430px;
+    height: 30px;
+    margin-top: 30px;
+    float: right;
+    margin-right: 30px;
+}
+.pop{
+    width: 20px;
+    height: 20px;
+}
+h3{
+    height: 5px;
+    margin-top: 40px;
+}
+.botton1{
+    color: rgb(0, 255, 55);
+    width: 120px;
+    height: 50px;
+    background-color: rgb(223, 8, 243);
+    border-color: rgb(223, 8, 243;
+}
